@@ -5,7 +5,8 @@
 ## Eixo Temático 3 – Gerência e Suporte da Tecnologia da Informação
 
 ### 1. Segurança da informação
-
+https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=en-US
+https://skillsforall.com/course/ethical-hacker?courseLang=en-US
 
 ### 2. Governança e Gestão de TI
 
